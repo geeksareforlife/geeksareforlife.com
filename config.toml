@@ -1,0 +1,6 @@
+baseURL = "https://www.geeksareforlife.com/"
+languageCode = "en-gb"
+title = "GeeksAreForLife"
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
