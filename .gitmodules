@@ -1,6 +1,3 @@
-[submodule "themes/gr4l"]
-	path = themes/gr4l
-	url = git@github.com:geeksareforlife/geeksareforlife.com-theme.git
 [submodule "themes/GeeksAreForLife"]
 	path = themes/GeeksAreForLife
 	url = git@github.com:geeksareforlife/geeksareforlife.com-theme.git
