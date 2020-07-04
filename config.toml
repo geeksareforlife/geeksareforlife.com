@@ -1,6 +1,59 @@
+theme = "gr4l"
 baseURL = "https://www.geeksareforlife.com/"
 languageCode = "en-gb"
 title = "GeeksAreForLife"
 
+enableGitInfo = true
+
+sectionPagesMenu = "main"
+
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
+
+[taxonomies]
+  tag = "tags"
+
+# Code higlighting settings
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+
+[[menu.main]]
+  identifier = "now"
+  name = "Now"
+  url = "/now/"
+  weight = -110
+
+[params]
+  author = "James Hayward"
+  copyright = "Copyright © 2020, James Hayward, all rights reserved."
+
+  mainSections = ["posts"]
+
+  [[params.relme]]
+    cta = "Go To GitHub"
+    icon = "fab fa-github"
+    href = "https://www.github.com/geeksareforlife"
+
+  [[params.relme]]
+    cta = "Go To Twitter"
+    icon = "fab fa-twitter"
+    href = "https://www.twitter.com/geeksareforlife"
+
+  [[params.relme]]
+    cta = "Go To Keybase"
+    icon = "fab fa-keybase"
+    href = "https://www.keybase.com/geeksareforlife"
+
+  [[params.relme]]
+    cta = "Email Me"
+    icon = "far fa-at"
+    href = "mailto:hi@geeksareforlife.com"
