@@ -1,0 +1,3 @@
+[submodule "themes/gr4l"]
+	path = themes/gr4l
+	url = git@github.com:geeksareforlife/geeksareforlife.com-theme.git
