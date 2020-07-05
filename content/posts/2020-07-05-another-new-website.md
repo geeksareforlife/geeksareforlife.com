@@ -8,7 +8,6 @@ tags:
   - "geeksareforlife.com"
   - "hugo"
   - "tailwind"
-draft: true
 ---
 
 I have, yet again, neglected this site dreadfully over the last few years!
