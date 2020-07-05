@@ -4,7 +4,7 @@
 author: <Delete to use Site Author>
 title: {{ replace $newTitle "-" " " |  title }}
 date: {{ .Date }}
-thumb: "/images/year/month/image.png"
+hero: "/images/year/month/image.png"
 summary: "Short description, or use <!--more--> in the text"
 slug: "{{ lower $newTitle }}"
 tags: []
