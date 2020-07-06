@@ -51,7 +51,7 @@ sectionPagesMenu = "main"
   [[params.relme]]
     cta = "Go To Keybase"
     icon = "fab fa-keybase"
-    href = "https://www.keybase.com/geeksareforlife"
+    href = "https://www.keybase.io/geeksareforlife"
 
   [[params.relme]]
     cta = "Email Me"
