@@ -1,7 +1,7 @@
 ---
 author: James Hayward
 title: Now
-date: 2020-07-02
+date: 2020-07-06
 type: now
 durations:
   covid:
@@ -39,8 +39,7 @@ As well as some general interests, this page will document what I am currently w
 
 ### What am I working on right now?
 
-- This website! Inspired by [Jamie Tanna](https://www.jvt.me/) I want to own more of my data, so will be working with IndieWeb standards to do just that.
-  - Yes, that link to Jamie should definitely be a `h-card`!
+- This website! Inspired by {{< hcard jamietanna >}} I want to own more of my data, so will be working with IndieWeb standards to do just that.
 - Garage {{< icon arrow-right >}} Woodshop Conversion, I'm trying to learn woodworking, and have been converting my garage to a basic woodshop. Expect to see lots of posts about that!
 - [AICC Video](https://github.com/geeksareforlife/aicc-video) - a basic system to generate an eLearning wrapper around a YouTube or Vimeo video and allow it to be tracked as a learning object.
 - School COVID response - as a governor I work with the Senior Leadership Team to work on how we handle opening the school during these weird times.

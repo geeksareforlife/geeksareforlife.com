@@ -12,7 +12,7 @@ tags:
 
 I have, yet again, neglected this site dreadfully over the last few years!
 
-I have been meaning to rebuild it for at least a year, ever since being inspired by [Jamie Tanna](https://www.jvt.me/) to take control of my own data. I even put it on my todo list, and watched it slide further and further down.
+I have been meaning to rebuild it for at least a year, ever since being inspired by {{< hcard jamietanna >}} to take control of my own data. I even put it on my todo list, and watched it slide further and further down.
 
 Well, Coronavirus lockdown has finally given me the time to do some actual research and get on with it. I have move away from Jekyll, not because it wasn't working, but because I was moving away from GitHub Pages so that I can add more complexity to the site. Jekyll is a great static site generator, and I am certain that it can handle whatever I wanted to do on here. But I do like an excuse to learn something new, so I decided to use lots of new things that I have been meaning to play with!
 
