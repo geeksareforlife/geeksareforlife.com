@@ -2,7 +2,9 @@
 title: "Precious Little Time"
 date: 2011-12-06
 summary: "Getting my house up to scratch before my first child arrives."
-tags: [diy, kids]
+tags: 
+  - "diy"
+  - "kids"
 ---
 A week or so ago I took nine days off work to do some DIY - Destroy It Yourself!
 

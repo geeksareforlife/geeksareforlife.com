@@ -4,7 +4,9 @@ date: 2014-02-23
 thumb: "/images/2014/02/buzzer-thumbnail.jpg"
 hero: "/images/2014/02/buzzer-hero.jpg"
 summary: "Short deadlines are the mother of all inventions! Here I build a quiz-syle buzzer for work."
-tags: [laser, work]
+tags: 
+  - "laser"
+  - "work"
 ---
 I foolishly agreed to build a University Challenge style buzzer system to use for a work quiz.  And it needs to be done by April.
 

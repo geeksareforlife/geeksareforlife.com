@@ -4,7 +4,9 @@ date: 2012-10-07
 thumb: "/images/2012/10/snowflake-thumbnail.jpg"
 hero: "/images/2012/10/snowflake-hero.jpg"
 summary: "Thinking about Christmas presents and laser cutters."
-tags: [laser, christmas]
+tags: 
+  - "laser"
+  - "christmas"
 ---
 As the holidays draw closer, The mind starts thinking about Christmas presents.  As always, I get the idea in my head that I can make some nice things for presents and this year I have easy access to a  laser cutter!
 

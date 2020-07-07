@@ -4,7 +4,8 @@ date: 2010-06-19
 thumb: "/images/2010/06/pip-thumbnail.png"
 hero: "/images/2010/06/pip-hero.jpg"
 summary: "Solving a drawing problem without a GPU."
-tags: [programming]
+tags: 
+  - "programming"
 ---
 Calculating whether a point on a 2D plane is inside a polygon on the same plane is a computer science problem from the beginnings of time!
 

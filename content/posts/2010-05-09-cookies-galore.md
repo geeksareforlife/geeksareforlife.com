@@ -3,7 +3,8 @@ title: "Cookies Galore"
 date: 2010-05-09
 thumb: "/images/2010/05/cookies-thumbnail.png"
 hero: "/images/2010/05/cookies-hero.jpg"
-tags: [cooking]
+tags: 
+  - "cooking"
 ---
 I've spent the better part of the day making cookies!<!--more-->   I tried a few interesting combos, which I'll detail at the end of this post.  For those that are interested, the recipe is as follows...
 

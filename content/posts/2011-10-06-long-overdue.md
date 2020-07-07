@@ -2,7 +2,9 @@
 
 title: "Long Overdue"
 date: 2011-10-06
-tags: [kids, laser]
+tags: 
+  - "kids"
+  - "laser"
 ---
 I really need to update this blog more often, if only to remind myself of what I'm up to!<!--more--> So this is hopefully the first of a few posts over the next few weeks...
 
