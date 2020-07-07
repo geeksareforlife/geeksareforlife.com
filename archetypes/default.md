@@ -8,8 +8,8 @@ hero: "/images/year/month/image.png"
 summary: "Short description, or use <!--more--> in the text"
 slug: "{{ lower $newTitle }}"
 tags: 
-  - tag one
-  - tag two
+  - "tag one"
+  - "tag two"
 draft: true
 ---
 
