@@ -3,6 +3,7 @@ title: Coronavirus
 date: 2020-07-09T22:51:09+01:00
 hero: "/images/2020/07/coronavirus.png"
 summary: "Some musings on the UK Coronavirus Lockdown"
+description: "The Coronavirus has changed all our lives in many ways. Where it has impacted me the most is in my position as a Governor of a primary school."
 slug: "coronavirus"
 tags: 
   - "family"
