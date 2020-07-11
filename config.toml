@@ -37,6 +37,8 @@ sectionPagesMenu = "main"
   copyright = "Copyright © 2020, James Hayward, all rights reserved."
   description = "GeeksAreForLife - random musings of a geek getting old"
 
+  twitter = "@geeksareforlife"
+
   mainSections = ["posts"]
 
   [[params.relme]]
