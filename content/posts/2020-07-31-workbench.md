@@ -1,12 +1,12 @@
 ---
-title: My Family
-date: 2020-07-07T21:27:50+01:00
+title: Workbench
+date: 2020-07-31T21:28:19+01:00
 hero: "/images/year/month/image.png"
 summary: "Short description, or use <!--more--> in the text"
-slug: "my-family"
+slug: "workbench"
 tags: 
-  - "family"
-  - "kids"
+  - "woodwork"
+  - "shop project"
 draft: true
 ---
 
