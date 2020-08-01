@@ -35,6 +35,7 @@ sectionPagesMenu = "main"
 [author]
   name = "James Hayward"
   email = "hi@geeksareforlife.com"
+  user = "geeksareforlife"
 
 [params]
   copyright = "Copyright © 2020, James Hayward, all rights reserved."
