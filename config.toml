@@ -32,8 +32,11 @@ sectionPagesMenu = "main"
   url = "/now/"
   weight = -110
 
+[author]
+  name = "James Hayward"
+  email = "hi@geeksareforlife.com"
+
 [params]
-  author = "James Hayward"
   copyright = "Copyright © 2020, James Hayward, all rights reserved."
   description = "GeeksAreForLife - random musings of a geek getting old"
 
