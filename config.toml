@@ -8,7 +8,7 @@ enableGitInfo = true
 sectionPagesMenu = "main"
 
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  articles = "/:year/:month/:day/:slug/"
 
 [taxonomies]
   tag = "tags"
@@ -43,7 +43,7 @@ sectionPagesMenu = "main"
 
   twitter = "@geeksareforlife"
 
-  mainSections = ["posts"]
+  mainSections = ["articles"]
 
   [[params.relme]]
     cta = "Go To GitHub"
