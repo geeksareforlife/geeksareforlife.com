@@ -8,6 +8,9 @@ tags:
   - "geeksareforlife.com"
   - "hugo"
   - "tailwind"
+menu:
+  main:
+    parent: 'posts'
 ---
 
 I have, yet again, neglected this site dreadfully over the last few years!

@@ -5,6 +5,9 @@ summary: "Getting my house up to scratch before my first child arrives."
 tags: 
   - "diy"
   - "kids"
+menu:
+  main:
+    parent: 'posts'
 ---
 A week or so ago I took nine days off work to do some DIY - Destroy It Yourself!
 

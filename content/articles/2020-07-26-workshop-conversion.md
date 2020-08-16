@@ -7,6 +7,9 @@ slug: "workshop-conversion"
 tags: 
   - "woodwork"
   - "shop project"
+menu:
+  main:
+    parent: 'posts'
 draft: true
 ---
 

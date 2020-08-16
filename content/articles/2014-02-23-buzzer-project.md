@@ -7,6 +7,9 @@ summary: "Short deadlines are the mother of all inventions! Here I build a quiz-
 tags: 
   - "laser"
   - "work"
+menu:
+  main:
+    parent: 'posts'
 ---
 I foolishly agreed to build a University Challenge style buzzer system to use for a work quiz.  And it needs to be done by April.
 

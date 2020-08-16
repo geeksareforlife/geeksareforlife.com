@@ -5,8 +5,6 @@ title = "GeeksAreForLife"
 
 enableGitInfo = true
 
-sectionPagesMenu = "main"
-
 [permalinks]
   articles = "/:year/:month/:day/:slug/"
 
@@ -30,7 +28,19 @@ sectionPagesMenu = "main"
   identifier = "now"
   name = "Now"
   url = "/now/"
-  weight = -110
+  weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/articles/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "trigs"
+  name = "Trig Points"
+  url = "/checkins/"
+  weight = 30
 
 [author]
   name = "James Hayward"

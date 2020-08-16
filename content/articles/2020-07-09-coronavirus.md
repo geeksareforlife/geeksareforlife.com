@@ -9,6 +9,9 @@ tags:
   - "family"
   - "school"
   - "politics"
+menu:
+  main:
+    parent: 'posts'
 ---
 
 2020 has been an interesting year!

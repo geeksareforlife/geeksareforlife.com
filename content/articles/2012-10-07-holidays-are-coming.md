@@ -7,6 +7,9 @@ summary: "Thinking about Christmas presents and laser cutters."
 tags: 
   - "laser"
   - "christmas"
+menu:
+  main:
+    parent: 'posts'
 ---
 As the holidays draw closer, The mind starts thinking about Christmas presents.  As always, I get the idea in my head that I can make some nice things for presents and this year I have easy access to a  laser cutter!
 

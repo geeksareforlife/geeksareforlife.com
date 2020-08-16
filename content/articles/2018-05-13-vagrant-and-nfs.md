@@ -7,6 +7,9 @@ summary: "NFS can make your Vagrant box perform a lot better, but will it take l
 tags: 
   - "programming"
   - "vagrant"
+menu:
+  main:
+    parent: 'posts'
 ---
 You've probably used [Vagrant](https://www.vagrantup.com), and therefore know that is can make development in small teams a lot easier by simplifying the process of getting a development environment that is the same for all team members up and running.
 
