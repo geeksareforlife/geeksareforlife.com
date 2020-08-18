@@ -10,6 +10,7 @@ enableGitInfo = true
 
 [taxonomies]
   tag = "tags"
+  trigpoint = "trigpoints"
 
 # Code higlighting settings
 [markup]
@@ -39,7 +40,7 @@ enableGitInfo = true
 [[menu.main]]
   identifier = "trigs"
   name = "Trig Points"
-  url = "/checkins/"
+  url = "/trigpoints/"
   weight = 30
 
 [author]
