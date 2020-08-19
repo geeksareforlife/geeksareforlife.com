@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="44.999996"
+   width="25.312498"
+   sodipodi:docname="gr4l-map-pin.svg"
+   id="svg4"
+   version="1.1"
+   viewBox="0 0 25.312498 44.999996">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="45"
+     inkscape:window-x="1920"
+     inkscape:cy="256"
+     inkscape:cx="169.49523"
+     inkscape:zoom="1.4316406"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="991"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="scale(0.08789062)"
+     id="g844">
+    <path
+       d="M 144,0 C 64.47,0 0,64.47 0,144 0,218.05 56.1,278.33 128,286.39 v 206.43 l 11.01,16.51 c 2.38,3.56 7.61,3.56 9.98,0 L 160,492.82 V 286.39 C 231.9,278.34 288,218.05 288,144 288,64.47 223.53,0 144,0 Z"
+       id="path2" />
+    <path
+       d="M 144,256 C 82.24,256 32,205.76 32,144 32,82.24 82.24,32 144,32 c 61.76,0 112,50.24 112,112 0,61.76 -50.24,112 -112,112 z"
+       id="path14"
+       style="fill:#9b2c2c;fill-opacity:1" />
+    <path
+       d="m 144,64 c -44.12,0 -80,35.89 -80,80 0,8.84 7.16,16 16,16 8.84,0 16,-7.16 16,-16 0,-26.47 21.53,-48 48,-48 8.84,0 16,-7.16 16,-16 0,-8.84 -7.16,-16 -16,-16 z"
+       id="path16"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>
