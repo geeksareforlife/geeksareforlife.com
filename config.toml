@@ -76,5 +76,3 @@ enableGitInfo = true
     icon = "far fa-at"
     href = "mailto:hi@geeksareforlife.com"
 
-[minify]
-  disableCSS = true
