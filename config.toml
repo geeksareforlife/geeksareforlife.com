@@ -75,3 +75,6 @@ enableGitInfo = true
     cta = "Email Me"
     icon = "far fa-at"
     href = "mailto:hi@geeksareforlife.com"
+
+[minify]
+  disableCSS = true
