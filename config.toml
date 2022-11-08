@@ -62,6 +62,11 @@ enableGitInfo = true
     href = "https://www.github.com/geeksareforlife"
 
   [[params.relme]]
+    cta = "Go To Mastodon"
+    icon = "fab fa-mastodon"
+    href = "https://mastodon.me.uk/@geeksareforlife"
+
+  [[params.relme]]
     cta = "Go To Twitter"
     icon = "fab fa-twitter"
     href = "https://www.twitter.com/geeksareforlife"
